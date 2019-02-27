@@ -50,9 +50,8 @@ table#movies th, table#movies td {
 }
 
 table#movies th.hilite {
-  background-color: yellow;
+    background-color: yellow;
 }
-
 #notice #warning {
   background: rosybrown;
   margin: 1em 0;
